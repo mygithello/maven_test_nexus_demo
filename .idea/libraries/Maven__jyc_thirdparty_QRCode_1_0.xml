@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jyc.thirdparty:QRCode:1.0">
+    <CLASSES>
+      <root url="jar://F:/tools/Maven-3.5.4/repository/jyc/thirdparty/QRCode/1.0/QRCode-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/tools/Maven-3.5.4/repository/jyc/thirdparty/QRCode/1.0/QRCode-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/tools/Maven-3.5.4/repository/jyc/thirdparty/QRCode/1.0/QRCode-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
